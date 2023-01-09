@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eugeneleychenko.github.io/csb-twrk19/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://eugeneleychenko.github.io/csb-twrk19/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://eugeneleychenko.github.io/csb-twrk19/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://eugeneleychenko.github.io/csb-twrk19/static/js/runtime-main.dc7bbc7f.js",
+    "runtime-main.js.map": "https://eugeneleychenko.github.io/csb-twrk19/static/js/runtime-main.dc7bbc7f.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://eugeneleychenko.github.io/csb-twrk19/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://eugeneleychenko.github.io/csb-twrk19/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://eugeneleychenko.github.io/csb-twrk19/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://eugeneleychenko.github.io/csb-twrk19/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://eugeneleychenko.github.io/csb-twrk19/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc7bbc7f.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
